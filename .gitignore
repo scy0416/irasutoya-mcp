@@ -1,0 +1,5 @@
+# uv가 만드는 가상환경과 파이썬 캐시는 저장소에 올리지 않습니다
+.venv/
+__pycache__/
+*.pyc
+notes.json
